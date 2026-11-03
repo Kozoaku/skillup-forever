@@ -295,10 +295,10 @@ L["Subtract what the crafted item sells for from its cost. Auction prices need A
 	"Вычитает из стоимости цену продажи созданного предмета. Для цен аукциона нужен Auctionator, они указаны за вычетом 5% комиссии, и предмет может не продаться."
 L["Suggest my other Forever addons"] = "Предлагать другие мои модификации Forever"
 L["Taught by %s trainers."] = "Обучают учителя (%s)."
-L["The first stable release, ready for the WoW: Forever launch."] =
-	"Первая стабильная версия, готовая к запуску WoW: Forever."
 L["The place this recipe is taught isn't known yet."] =
 	"Где обучают этому рецепту, пока неизвестно."
+L["The profession data now matches the 1.60.1.70753 build."] =
+	"Данные профессий теперь соответствуют сборке 1.60.1.70753." -- mt
 L["The rest comes from a vendor or your gathering."] =
 	"Остальное — от торговца или из вашей добычи."
 L["The route asks for %d to reach %d in 9 runs of 10; a worse run needs more."] =
