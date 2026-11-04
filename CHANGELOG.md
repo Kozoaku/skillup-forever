@@ -12,6 +12,11 @@ optional `### For addon authors` subsection after a version's player bullets.
 
 ## [Unreleased]
 
+## [1.0.7] - 2026-11-04
+
+- **Family links keep their gold-bordered buttons when an older addon loads first.** The shared window takes over from older installed copies, so an addon that loads first can no longer keep the legacy button implementation whatever the load order.
+- **Peer statistics registrations stay private to their addon.** An addon observes shared leaderboard rows without taking over another addon's sender, and leaderboards accept pair subjects for encounter difficulty.
+
 ## [1.0.6] - 2026-11-04
 
 - **Shopping confirmations use the native dialog surface.** The purchase prompt keeps its gold-bordered buttons and uses an opaque NineSlice background. Shared CI also rejects legacy templates and backdrop globals that select loose chrome.
