@@ -510,6 +510,9 @@ L["you loot it from creatures, valued at its AH price"] =
 	"você o saqueia de criaturas, avaliado pelo preço de leilão" -- mt
 L["you loot it from creatures, valued at its vendor sell price"] =
 	"você o saqueia de criaturas, avaliado pelo preço de venda ao comerciante" -- mt
+L["Shift-click crafts all %d."] = "Shift-clique cria todos os %d." -- mt
+L["The game's Craft button is not ready for this recipe."] =
+	"O botão Criar do jogo não está pronto para esta receita." -- mt
 L["vendor, limited stock"] = "vendedor, estoque limitado" -- mt
 L["Sells %d at a time"] = "Vende %d por vez" -- mt
 L["Crafting from the route works on Forever."] = "Fabricar pela rota funciona no Forever." -- mt

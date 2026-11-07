@@ -500,6 +500,8 @@ L["you loot it from creatures"] = "你从生物身上拾取" -- mt
 L["you loot it from creatures, valued at its AH price"] = "你从生物身上拾取，按拍卖行价格计算" -- mt
 L["you loot it from creatures, valued at its vendor sell price"] =
 	"你从生物身上拾取，按商人出售价格计算" -- mt
+L["Shift-click crafts all %d."] = "按住Shift点击制造全部%d个。" -- mt
+L["The game's Craft button is not ready for this recipe."] = "游戏自带的制造按钮尚未对这份配方就绪。" -- mt
 L["vendor, limited stock"] = "商人，库存有限" -- mt
 L["Sells %d at a time"] = "每次出售 %d 个" -- mt
 L["Crafting from the route works on Forever."] = "从路线制作在 Forever 上可用。" -- mt

@@ -540,6 +540,9 @@ L["you loot it from creatures, valued at its AH price"] =
 	"вы выбиваете его из существ, по цене аукциона" -- mt
 L["you loot it from creatures, valued at its vendor sell price"] =
 	"вы выбиваете его из существ, по цене продажи торговцу" -- mt
+L["Shift-click crafts all %d."] = "Shift-щелчок создает все %d." -- mt
+L["The game's Craft button is not ready for this recipe."] =
+	"Кнопка «Создать» в игре не готова для этого рецепта." -- mt
 L["vendor, limited stock"] = "торговец, ограниченный запас" -- mt
 L["Sells %d at a time"] = "Продаёт по %d за раз" -- mt
 L["Crafting from the route works on Forever."] = "Создание по маршруту работает на Forever." -- mt
