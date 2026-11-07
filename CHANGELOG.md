@@ -12,6 +12,7 @@ optional `### For addon authors` subsection after a version's player bullets.
 
 ## [Unreleased]
 
+- **Recipes you have not learned can sit in the recipe list too.** A new setting, off by default, adds the open profession's unlearned recipes under an Unlearned divider, greyed and marked with a trainer or recipe item and the skill it asks, so what is ahead is in the same list. Unlearned rows cannot be selected or crafted. Thanks to prokn4h for the request (cjber/skillup-forever#361).
 
 ## [1.0.31] - 2026-11-07
 
