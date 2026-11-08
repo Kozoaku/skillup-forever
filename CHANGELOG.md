@@ -12,6 +12,12 @@ optional `### For addon authors` subsection after a version's player bullets.
 
 ## [Unreleased]
 
+- **Closing the Professions window on the route or gear page no longer shows a Blizzard page from inside the game's own hide.** The window went back to its crafting page from the close itself, which runs in the client's secure panel path, the same kind of mistake 1.0.35 fixed for opening it. That page work now runs on the next frame. This may be behind a controller player's blocked SetPreferredGamepadInteractTarget report (cjber/skillup-forever#398). Thanks to Viper2042 for the report.
+
+- **The levelling route tab stays beside the Professions window with All The Things loaded.** All The Things keeps the window's side tab column in a frame of its own and puts its own tab in the next free slot inside it, and the addon took that frame for the lowest tab, so the route tab slid down under the window and looked attached to nothing. It now sits under the tab already in the column, beside the window, and opens the route inside it. Thanks to TechnoHunter for reporting it (cjber/skillup-forever#402).
+
+- **A profitable recipe no longer gets cheaper the longer a route runs on it, and a craft's time now counts.** Rough Bronze Leggings sold for more than their Bronze Bars, so Blacksmithing 105 to 150 asked for 183 of them and training that would have replaced them never showed a saving. The route now charges the first craft of a step at the recipe's net, never a profit, and the extra crafts a falling chance needs at its reagents, and gives every craft a small price for its time, so a stretch at 1 in 30 no longer looks free even when its reagents are gathered. Thanks to jakeyjake07 for the report (cjber/skillup-forever#400).
+
 ## [1.0.37] - 2026-11-08
 
 - **Self-supplied reagents can now be priced at market values.** A new Prices setting, off by default, stops a reagent you gather, loot or already own from counting as free: it takes its Auctionator price after the 5% cut, or its vendor sell price when that is higher, so the route, shopping list and cost totals describe what a fresh character would pay. A reagent with no market price stays unpriced instead of becoming free, and the route page and report say which pricing mode is on (cjber/skillup-forever#399, CurseForge 8664058).
