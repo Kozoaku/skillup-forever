@@ -442,6 +442,7 @@ function GetTrainerTradeskillRankValues() end
 ---@field attached boolean
 ---@field locked? boolean the grip ignores drag while the tracker is locked
 ---@field scale? number tracker size, 1 is the stock size
+---@field backdropOpacity? number the optional backdrop's opacity, 0 (off) to 1
 ---@field x? number
 ---@field y? number
 
