@@ -12,6 +12,8 @@ optional `### For addon authors` subsection after a version's player bullets.
 
 ## [Unreleased]
 
+- **Auction prices can come from TradeSkillMaster.** With TradeSkillMaster installed and no Auctionator price for an item, reagents and crafted items use TSM's AuctionDB: its latest snapshot's market value, then the lowest buyout, then the 14-day market value. The desktop app refreshes that data, so TSM does not report how old a price is and no age is shown. Auctionator stays first when both are installed, and its shopping lists still need Auctionator.
+
 ## [1.2.1] - 2026-11-09
 
 - **Less work while you hover gear with item comparison on.** The game refreshes an item's tooltip and its comparison tooltips while you move, and SkillUp now adds its lines from what it already worked out instead of counting your bags and rebuilding them each time. Reported on CurseForge by iPulse (#477).
