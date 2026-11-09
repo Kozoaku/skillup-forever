@@ -12,6 +12,8 @@ optional `### For addon authors` subsection after a version's player bullets.
 
 ## [Unreleased]
 
+- **Less work while you hover gear with item comparison on.** The game refreshes an item's tooltip and its comparison tooltips while you move, and SkillUp now adds its lines from what it already worked out instead of counting your bags and rebuilding them each time. Reported on CurseForge by iPulse (#477).
+
 ## [1.2.0] - 2026-11-09
 
 - **The Professions window has one SkillUp side tab instead of one per page.** It opens the SkillUp page you used last, and Route, Crafted gear and Buffs are now bottom tabs under the window, like the character window's own tabs. The three settings still choose which pages exist; turn every one off and the side tab goes with them. The tab keeps its place beside What's Training?'s corner tab, and stays a real button so the gamepad interface does not read our scripts (#460).
