@@ -144,6 +144,7 @@ L["Need %d more %s"] = "還需要%d個%s"
 L["Need a %s in your bags."] = "背包中需要%s。"
 L["Needs %s %d"] = "需要%s %d"
 L["Net per craft"] = "每次製造淨成本"
+L["Newest recipes first"] = "最新配方優先"
 L["Next to the recipe"] = "配方旁邊"
 L["No crafted gear for your level and class yet."] = "暫無適合你等級和職業的製造裝備。"
 L["No crafted gear you can make yet. Tick the box above to see gear you cannot make."] =
@@ -531,8 +532,8 @@ L["%s: %s"] = "%s：%s" -- mt
 L["%s drops in %s"] = "%s 在 %s 掉落" -- mt
 L["Made by %s %d"] = "%s %d 製作" -- mt
 L["Made by %s"] = "%s 製作" -- mt
-L["Less work while you hover gear with item comparison on."] =
-	"開啟物品比較時，滑鼠懸停裝備的負擔更小。" -- mt
+L["Tailoring and First Aid have a route without Auctionator."] =
+	"裁縫和急救在沒有 Auctionator 時也有路線。" -- mt
 L["%s at %d"] = "%s（%d）" -- mt
 L["A tab at the bottom of the Professions window listing the buff consumables this profession makes, by the skill they unlock at and what each one is for. It opens from the SkillUp side tab, beside the route and crafted gear tabs."] =
 	"專業技能視窗底部的一個標籤頁，依解鎖所需的技能與用途列出該專業製造的增益消耗品。從 SkillUp 側邊標籤頁開啟，位於路線與製造裝備標籤頁旁。" -- mt

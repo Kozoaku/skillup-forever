@@ -148,6 +148,7 @@ L["Need %d more %s"] = "Faltan %d %s"
 L["Need a %s in your bags."] = "Necesitas %s en tus bolsas."
 L["Needs %s %d"] = "Requiere %s %d"
 L["Net per craft"] = "Neto por creación"
+L["Newest recipes first"] = "Recetas más recientes primero"
 L["Next to the recipe"] = "Junto a la receta"
 L["No crafted gear for your level and class yet."] = "Aún no hay equipo creado para tu nivel y clase."
 L["No crafted gear you can make yet. Tick the box above to see gear you cannot make."] =
@@ -545,8 +546,8 @@ L["%s: %s"] = "%s: %s" -- mt
 L["%s drops in %s"] = "%s cae en %s" -- mt
 L["Made by %s %d"] = "Fabricado por %s %d" -- mt
 L["Made by %s"] = "Fabricado por %s" -- mt
-L["Less work while you hover gear with item comparison on."] =
-	"Menos trabajo al pasar el mouse sobre equipo con la comparación de objetos activada." -- mt
+L["Tailoring and First Aid have a route without Auctionator."] =
+	"Sastrería y Primeros auxilios tienen ruta sin Auctionator." -- mt
 L["%s at %d"] = "%s en %d" -- mt
 L["A tab at the bottom of the Professions window listing the buff consumables this profession makes, by the skill they unlock at and what each one is for. It opens from the SkillUp side tab, beside the route and crafted gear tabs."] =
 	"Una pestaña en la parte inferior de la ventana de profesiones que lista los consumibles de beneficio que hace esta profesión, por la habilidad a la que se desbloquean y para qué sirve cada uno. Se abre desde la pestaña lateral de SkillUp, junto a las pestañas de ruta y equipo fabricado." -- mt
